@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# </> About Me:
 💻 I'm currently an intern at samsung institute of development and informatics.<br>🎓 I'm a computer science student.
 
 
