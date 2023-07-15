@@ -1,6 +1,6 @@
 
 # </> About Me:
-💻 I'm currently an intern at samsung institute of development and informatics.<br>🎓 I'm a computer science student.
+💻 I'm currently an Software Developer at samsung institute of development and informatics.<br>🎓 I'm a computer science student.
 
 
 ## 🌐 Socials:
